@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 import NavigationBar from './components/NavigationBar';
+import "./index.css";
 
 const isStandalone = !window.__POWERED_BY_HOST__; 
 
